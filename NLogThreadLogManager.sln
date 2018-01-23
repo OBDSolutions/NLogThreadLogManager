@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NLogThreadLogManager", "NLogThreadLogManager\NLogThreadLogManager.csproj", "{8F60C6F7-904B-401F-A756-E85D83B12477}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NLogThreadLogManagerTests", "NLogThreadLogManagerTests\NLogThreadLogManagerTests.csproj", "{8B8183AC-F0A2-465E-AAB2-7CA704C27F0D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8F60C6F7-904B-401F-A756-E85D83B12477}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F60C6F7-904B-401F-A756-E85D83B12477}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F60C6F7-904B-401F-A756-E85D83B12477}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F60C6F7-904B-401F-A756-E85D83B12477}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B8183AC-F0A2-465E-AAB2-7CA704C27F0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B8183AC-F0A2-465E-AAB2-7CA704C27F0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B8183AC-F0A2-465E-AAB2-7CA704C27F0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B8183AC-F0A2-465E-AAB2-7CA704C27F0D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
