@@ -1,0 +1,2 @@
+nuget pack NLogThreadLogManager\NLogThreadLogManager.csproj -properties Configuration=Release
+pause
